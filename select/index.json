@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "I Can't Wait To Get There",
+  "base_artist": "ザ・ウィークエンド",
+  "createdAt": "2026-03-05T14:56:02.323564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/01_I_Can't_Wait_To_Get_There_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/02_I_Can't_Wait_To_Get_There_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can’t Wait To Get There",
+      "artist": "Weeknd",
+      "has_synced": true,
+      "path": "select/03_I_Can’t_Wait_To_Get_There_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can’t Wait to Get There",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/04_I_Can’t_Wait_to_Get_There_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_I_Can't_Wait_To_Get_There_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There (Audio)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_I_Can't_Wait_To_Get_There_(Audio)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There (Paused)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/07_I_Can't_Wait_To_Get_There_(Paused)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There [Explicit]",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_I_Can't_Wait_To_Get_There_[Explicit]_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can't Wait To Get There [Explicit]",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_I_Can't_Wait_To_Get_There_[Explicit]_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can’t Wait to Get There",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/10_I_Can’t_Wait_to_Get_There_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Can't Wait To Get There",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_I_Can't_Wait_To_Get_There_The_Weeknd.txt"
+    }
+  ]
+}
